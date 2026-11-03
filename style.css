@@ -96,7 +96,7 @@ footer {
 
 /*Tabelle*/
 table, th, td {
-    border: lpx solid black;
+    border: 1px solid black;
 }
 caption {
     font-weight:bold;
