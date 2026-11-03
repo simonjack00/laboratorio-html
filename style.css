@@ -93,3 +93,18 @@ footer {
     font-size: 14px;
     color: #526174;
 }
+
+/*Tabelle*/
+table, th, td {
+    border: lpx solid black;
+}
+caption {
+    font-weight:bold;
+    color: blue
+}
+th {
+    background-color: yellow;
+}
+td {
+    text-align: center;
+           }
