@@ -100,7 +100,7 @@ table, th, td {
 }
 caption {
     font-weight:bold;
-    color: blue
+    color: blue;
 }
 th {
     background-color: yellow;
