@@ -96,16 +96,17 @@ footer {
 
 /*Tabelle*/
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid #FAF9F6;
 }
 
 caption {
     font-weight: bold;
-    color: blue;
+    color: #FAF9F6;
+    background-color: #0047AB;
 }
 
 th {
-    background-color: yellow;
+    background-color: #0047AB;
 }
 
 td {
